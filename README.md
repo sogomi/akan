@@ -15,6 +15,8 @@ This webpage is designed to get users year and date of birth for it to give day 
 * You can also use Visual Studio Code or atom
 # Support and Contact Details 
 For more inquiries and information contact me on my email:sogomib@gmail.com
+# Link
+* https://sogomi.github.io/akan/
 # Licence
 MIT Licence
 Copyright (C) [2020] [Akhan Names]
